@@ -1,0 +1,7 @@
+D:\TestApp\CICDTest\CITest\CITest\obj\Debug\CITest.csprojAssemblyReference.cache
+D:\TestApp\CICDTest\CITest\CITest\obj\Debug\CITest.csproj.CoreCompileInputs.cache
+D:\TestApp\CICDTest\CITest\CITest\bin\Debug\CITest.exe.config
+D:\TestApp\CICDTest\CITest\CITest\bin\Debug\CITest.exe
+D:\TestApp\CICDTest\CITest\CITest\bin\Debug\CITest.pdb
+D:\TestApp\CICDTest\CITest\CITest\obj\Debug\CITest.exe
+D:\TestApp\CICDTest\CITest\CITest\obj\Debug\CITest.pdb
